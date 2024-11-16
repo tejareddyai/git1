@@ -1,0 +1,1 @@
+console.output( push a file into git repository)
