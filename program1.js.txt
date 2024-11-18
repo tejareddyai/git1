@@ -1,2 +1,2 @@
 console.output( push a file into git repository)
-added 1 line
+added 1 line in remote
